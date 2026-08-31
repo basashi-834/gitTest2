@@ -1,4 +1,4 @@
-# Git Memo
+# Git コマンドMemo
 
 ## 初期設定
 
