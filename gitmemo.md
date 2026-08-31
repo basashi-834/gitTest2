@@ -1,4 +1,4 @@
-# Git Memo
+# Git Memo(初心者向け)
 
 ## 初期設定
 
