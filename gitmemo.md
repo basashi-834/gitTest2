@@ -97,3 +97,7 @@ git commit -m "変更内容"  // コミット
   $ `git remote add origin ...`
 - 登録したリモートリポジトリへ、ローカルリポジトリの内容を反映すると同時に、上流ブランチを設定する。
   $ ` git puxh -u origin main`
+
+### GitHubのリモートリポジトリを、新しいGitローカルリポジトリとして複製(展開)する
+
+$ ` git clone ...`
